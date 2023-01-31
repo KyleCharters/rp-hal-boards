@@ -1,4 +1,4 @@
-# [ilabs-challenger-nb-rp2040-wifi] - Board Support for the [Raspberry Pi Pico]
+# [ilabs-challenger-nb-rp2040-wifi] - Board Support for the [iLabs Challenger NB RP2040 WiFi]
 
 You should include this crate if you are writing code that you want to run on
 a [iLabs Challenger NB RP2040 WiFi].
@@ -7,9 +7,8 @@ This crate includes the [rp2040-hal], but also configures each pin of the
 RP2040 chip according to how it is connected up on the Challenger.
 
 [iLabs Challenger NB RP2040 WiFi]: https://ilabs.se/product/challenger-nb-rp2040-wifi-chip/
-[rp-pico]: https://github.com/rp-rs/rp-hal-boards/tree/main/boards/ilabs-challenger-nb-rp2040-wifi
+[ilabs-challenger-nb-rp2040-wifi]: https://github.com/rp-rs/rp-hal-boards/tree/main/boards/ilabs-challenger-nb-rp2040-wifi
 [rp2040-hal]: https://github.com/rp-rs/rp-hal/tree/main/rp2040-hal
-[Raspberry Silicon RP2040]: https://www.raspberrypi.org/products/rp2040/
 
 ## Using
 
