@@ -166,11 +166,11 @@ hal::bsp_pins!(
         name: esp_rx,
         aliases: {
             /// UART Function alias for pin [crate::Pins::gpio5].
-            FunctionUart: Gp5Uart1Rx
+            FunctionUart: Gp5Uart1Rx,
             /// PIO0 Function alias for pin [crate::Pins::gpio4].
-            FunctionPio0: Gp3Pio0,
+            FunctionPio0: Gp5Pio0,
             /// PIO1 Function alias for pin [crate::Pins::gpio4].
-            FunctionPio1: Gp3Pio1
+            FunctionPio1: Gp5Pio1
         }
     },
 
